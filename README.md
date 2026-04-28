@@ -67,9 +67,5 @@ src/
     chat_system.md
 data/askfirst_synthetic_dataset.json
 outputs/                     # cached per-user patterns
-docs/WRITEUP.md              # one-page writeup
+
 ```
-
-## Writeup
-
-See `docs/WRITEUP.md` for approach, honest failure modes, and what I'd build with more time.
